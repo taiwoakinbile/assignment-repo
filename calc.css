@@ -1,0 +1,17 @@
+div{
+	width: 20%;
+	  margin: 20%;
+	 background-color: grey;
+}
+
+
+
+input{
+	 box-sizing: border-box;
+	 width: 100%;
+}
+
+button{
+	margin:5%;
+	width: 15%;
+}
